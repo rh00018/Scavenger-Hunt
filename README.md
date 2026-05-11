@@ -1,1 +1,1 @@
-100
+Just prints hello world
